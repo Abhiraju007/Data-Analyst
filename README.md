@@ -28,7 +28,7 @@
 
 ## Databases
 
-2. Mysql:https://www.youtube.com/watch?v=us1XyayQ6fU&list=PLZoTAELRMXVNMRWlVf0bDDSxNEn38u9Cl
+2. sql Server
 
 
 
@@ -36,7 +36,7 @@
 
 ![maxresdefaultreduced](https://user-images.githubusercontent.com/20041231/211717386-39f75daf-0c1e-4295-8e00-657578f397a1.jpg)
 
-![Tableau-logo](https://user-images.githubusercontent.com/20041231/211717508-ccd3da44-1e33-47c0-a1ec-66583f73c496.jpg)
+
 
 ## Advanced Excel
 ![png-clipart-microsoft-excel-app-store-spreadsheet-microsoft-text-logo](https://user-images.githubusercontent.com/20041231/211717601-a7520e3b-bd50-4cbd-957a-8ff2bbce25b3.png)
