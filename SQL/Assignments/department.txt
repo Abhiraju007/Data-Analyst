@@ -1,0 +1,37 @@
+Create Table Employee_Tbl 
+(
+ Emp_Id  Int,
+ Emp_Name Varchar(50),
+ Salary  Int,
+ DeptId  Int
+ Primary Key(Emp_Id)
+)
+Create Table Department_Tbl 
+(
+ DeptId  Int Primary Key,
+ DeptName Varchar(50)
+)
+------Insert Records Into Employee Table
+
+Insert Into Employee_Tbl 
+Select 1,'Joanne',50000,1
+Union
+Select 2,'Howard',60000,1
+Union
+Select 3,'Peter',70000,2
+Union
+Select 4,'Rosie',40000,2
+Union
+Select 5,'Mary',55000,3
+Union
+Select 6,'Kush',45000,3
+Union
+Select 7,'Ram',40000,2
+
+------Insert Records Into Department Table
+Insert Into Department_Tbl
+Select 1,'IT'
+Union 
+Select 2,'HR'
+Union
+Select 3,'Accounts'
