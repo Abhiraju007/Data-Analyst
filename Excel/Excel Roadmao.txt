@@ -1,0 +1,39 @@
+Excel:-
+
+1.  MIS Explained
+2.  Excel User Interface
+3.  JOB Oriented Career Path
+4.  Excel Options
+5.  Difference between save and save as
+6.  Excel Paste Special
+7.  Excel Cell Reference:-Relative Reference
+8.  Excel Cell Reference:-Absolute Reference
+9.  Excel Cell Reference:-Mixed Reference
+10. Excel Custom Formatting
+11. Conditional Formatting
+12. Customized Conditional Formatting
+13. Formulae and Function
+14. Excel IF Formulae
+15. Excel Nested IF Function
+16  Excel Logical Function(OR,AND Function)
+17. Rand and Randbetween Function
+18. IFERROR Function
+19. Sumif and sumifs Function
+20. Sumifs Wildcard
+21. Text Function
+22. Replace and substitute Function
+23. Excel Find and Replace(Basic and Advance)
+24. Add Zero before Numbers
+25. Advance Text Functions(Best use of Left,Right,Mid Function)
+26. Date Functions(Combine day and Month)
+27. Date Functions(EDATE,EMONTH,WEEKDAY,WORKDAY,Date Value,WeekNum, Days,Days360,DATEDIF)
+28. Statistical Functions(Average,AverageA,AverageIF,AverageIFS)
+29. COUNT Functions(COUNT,COUNTA,COUNTBLANK,COUNTIF,COUNTIFS)
+30. Max and Min Functions
+31. Large and Small Functions,RANK Functions, Using Max and Min Functions with IF Formula
+32. Database Functions(DSUM,DAVERAGE,DCOUNT,DMAX,DMIN,DPRODUCT)
+33. VLOOKUP Functions(exact Match,Approximate Match,IF or VLOOKUP Functions,Double VLOOKUP)
+34. HLOOKUP Functions(Combined HLOOKUP and VLOOKUP Functions)
+35. ISBLANK,cell,info Functions
+36. ISNUMBER,ISTEXT,VLOOKUP with ISNUMBER and ISTEXT
+37. INDEXMATCH FUNCTIONS
